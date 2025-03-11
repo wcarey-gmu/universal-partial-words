@@ -1,6 +1,6 @@
 # universal-partial-words
 
-Code and data supporting the identification of upwords as described in [The Existence and Structure of Universal Partial Cycles](https://arxiv.org/abs/2310.13067). Motivated by the definition of upwords, 
+Code and data supporting the identification of upwords as described in [The Existence and Structure of Universal Partial Cycles](https://arxiv.org/abs/2310.13067). Motivated by the definition of upwords, this script searches the solution space for upwords of a given alphabet and subword length.
 
 ## Data
 
