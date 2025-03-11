@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 ###############################################################################
 #
-#  Project:  {Upcycle Project Name}
+#  Project:  Universal Partial Words
 #  Authors:  William Carey <wcarey1@gmu.edu>
 #            
 #  Acknowledgements: The algorithm that underlies this program was developed
-#                    by Daniel McGinnis <{e-mail goes here}>.
+#                    by Daniel McGinnis.
 # 
 #  Copyright (c) 2023-2025, William Carey
 #  SPDX-License-Identifier: MIT

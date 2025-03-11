@@ -1,0 +1,24 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Universal Partial Word Finder
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: William David
+    family-names: Carey
+    email: wcarey1@gmu.edu
+    affiliation: George Mason University
+identifiers:
+  - type: url
+    value: 'https://arxiv.org/abs/2310.13067'
+    description: Paper that motivated this research
+repository-code: 'https://github.com/wcarey-gmu/universal-partial-words'
+keywords:
+  - universal word
+  - universal partial word
+  - universal partial cycle
+license: MIT
