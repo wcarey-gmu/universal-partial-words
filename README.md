@@ -8,4 +8,4 @@ This folder contains a partial list of the upwords for the binary alphabet with 
 
 ## Code
 
-This folder contains a python script that implements an algorithm developed by Daniel McGinnis <> that searches for upwords by randomly traversing a n-ary (mostly; every level corresponding to a wildcard character is unary) tree and pruning sections of the tree that cannot contain upwords for the alphabet with n characters of a given word length.
+This folder contains a python script that implements an algorithm developed by Daniel McGinnis that searches for upwords by randomly traversing a n-ary (mostly; every level corresponding to a wildcard character is unary) tree and pruning sections of the tree that cannot contain upwords for the alphabet with n characters of a given word length.
